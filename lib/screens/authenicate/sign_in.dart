@@ -29,7 +29,7 @@ final AuthService _auth = AuthService();
               print('Error Signing in');
             } else{
               print('Signed in');
-              print(result);
+              print(result.uid);
             }
           },
         ),
