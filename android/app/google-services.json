@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "1021009000440",
-    "firebase_url": "https://damindu-brew-crew.firebaseio.com",
-    "project_id": "damindu-brew-crew",
-    "storage_bucket": "damindu-brew-crew.appspot.com"
+    "project_number": "310794366936",
+    "firebase_url": "https://new-brew-crew-a3e5e.firebaseio.com",
+    "project_id": "new-brew-crew-a3e5e",
+    "storage_bucket": "new-brew-crew-a3e5e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1021009000440:android:130067c8cfbb6757c0480d",
+        "mobilesdk_app_id": "1:310794366936:android:7d8dde43aac47f23beccad",
         "android_client_info": {
           "package_name": "com.damindu.brew_crew"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1021009000440-elpktp607mjq9tqmm0ltcceo5onrbqam.apps.googleusercontent.com",
+          "client_id": "310794366936-4kigpn7u2auc9m6bmot3qjmvfit7jair.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD3xLNKGK_IN_4pdUrCY-kEKa2zoCCcJBI"
+          "current_key": "AIzaSyAC5J40YrA3XNIL2YJyMHzVlBks9yX9tAo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1021009000440-elpktp607mjq9tqmm0ltcceo5onrbqam.apps.googleusercontent.com",
+              "client_id": "310794366936-4kigpn7u2auc9m6bmot3qjmvfit7jair.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
