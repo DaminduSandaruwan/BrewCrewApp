@@ -2,6 +2,8 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 
 class DatabaseService{
 
+
+
   final String uid;
   DatabaseService({this.uid});
 
@@ -14,5 +16,11 @@ class DatabaseService{
       'name' : name,
       'strength' : strength,
     });
+  }
+
+  //get brews stream
+
+  Stream<QuerySnapshot> get brews{
+    return brewCollection.snapshots();
   }
 }
